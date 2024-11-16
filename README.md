@@ -21,5 +21,28 @@ Let's go!!!
 ![image](https://github.com/user-attachments/assets/da20541b-80a3-44c3-a3e2-990728e3396f)
 
 
+![image](https://github.com/user-attachments/assets/4e18cb6f-ce97-4e74-bf68-16ab9aa2b7b3)
+
+
+
+![image](https://github.com/user-attachments/assets/e22db9eb-e590-46e3-9dfa-8af65082dfec)
+
+
+
+![image](https://github.com/user-attachments/assets/33320ae5-0234-4862-ad29-939a6d336d69)
+
+
+# Conclusion: 
+
+**Four factors affect tips: smoking, gender, time worked, and weekends.**
+
+In detail, we will explore this in Colab file.
+
+
+
+
+
+
+
 
 
