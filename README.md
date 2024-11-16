@@ -16,25 +16,19 @@ Let's go!!!
 
 # Result
 
+![image](https://github.com/user-attachments/assets/5ab7dd05-dd87-46c1-a9e2-a391b28c81de)
 
+![image](https://github.com/user-attachments/assets/96e21dca-b0d4-4b0b-a1ed-eb1ba0481e5b)
 
-![image](https://github.com/user-attachments/assets/da20541b-80a3-44c3-a3e2-990728e3396f)
+![image](https://github.com/user-attachments/assets/fddf109c-3e2e-4a49-b7fc-610db021e0d7)
 
+![image](https://github.com/user-attachments/assets/1ce06565-6d3c-4460-a92c-c492624bd729)
 
-![image](https://github.com/user-attachments/assets/4e18cb6f-ce97-4e74-bf68-16ab9aa2b7b3)
-
-
-
-![image](https://github.com/user-attachments/assets/e22db9eb-e590-46e3-9dfa-8af65082dfec)
-
-
-
-![image](https://github.com/user-attachments/assets/33320ae5-0234-4862-ad29-939a6d336d69)
 
 
 # Conclusion: 
 
-**Four factors affect tips: smoking, gender, time worked, and weekends.**
+**Four factors affect tips: smoking, gender, time worked, and weekends. These factors influence tips in various ways**
 
 In detail, we will explore this in Colab file.
 
