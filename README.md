@@ -7,7 +7,7 @@ Let's go!!!
 
 The first,
 import data into Colab by the code:
-```pd
+```Python
 
 import matplotlib.pyplot as plt
 import pandas as pd
