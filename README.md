@@ -14,10 +14,12 @@ This project aims to use the restaurant tips dataset to practice creating compos
 
 Let's go!!!
 
-The first,
-import data into Colab by the code:
-```Python
+# Result
 
-import matplotlib.pyplot as plt
-import pandas as pd
+
+
+![image](https://github.com/user-attachments/assets/da20541b-80a3-44c3-a3e2-990728e3396f)
+
+
+
 
