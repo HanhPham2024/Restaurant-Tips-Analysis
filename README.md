@@ -9,7 +9,7 @@ This project aims to use the restaurant tips dataset to practice creating compos
 
 - It includes details about the tips given to restaurant staff, such as the total bill, tip amount, gender of the person paying, smoking status, day of the week, time of day, and party size.
 
-- We will use Colab to analysis the dataset and get chart, hist for understand it clearly as well as get useful insight. Factors affect to tips.
+- We will use Colab to analyze the dataset, create charts and histograms to better understand the factors that affect tips, and gain useful insights.
 
 
 Let's go!!!
